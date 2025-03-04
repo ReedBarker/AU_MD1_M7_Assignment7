@@ -1,0 +1,1 @@
+////  AnimalFact.swift//  TableViewApp////  Created by user268071 on 2/27/25.//struct AnimalFact {    let animalName: String    let fact: String    init(_ animalName: String, _ fact: String) {        self.animalName = animalName        self.fact = fact    }}
